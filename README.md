@@ -3,13 +3,13 @@ Certainly! Below is a comprehensive Code of Conduct for a fintech startup:
 
 ---
 
-# **Fintech Startup Code of Conduct**
+# **Cru's Code of Conduct**
 
 **1. Vision & Mission:**
-At [Startup Name], we are dedicated to revolutionizing the financial sector with innovative technology solutions. We prioritize transparency, integrity, and user satisfaction in all that we do.
+At Cru, we are dedicated to revolutionizing the financial sector with innovative technology solutions. We prioritize transparency, integrity, and user satisfaction in all that we do.
 
 **2. Ethical Behavior:**
-Every member of the [Startup Name] team is expected to conduct themselves with the utmost honesty, integrity, and professionalism, both internally and externally.
+Every member of the Cru team is expected to conduct themselves with the utmost honesty, integrity, and professionalism, both internally and externally.
 
 **3. Data Protection & Privacy:**
 - Protecting user data is paramount. We must always follow industry best practices to ensure data is securely stored, processed, and transmitted.
