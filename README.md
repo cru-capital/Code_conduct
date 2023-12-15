@@ -1,8 +1,3 @@
-# Code_conduct
-Certainly! Below is a comprehensive Code of Conduct for a fintech startup:
-
----
-
 # **Cru's Code of Conduct**
 
 **1. Vision & Mission:**
